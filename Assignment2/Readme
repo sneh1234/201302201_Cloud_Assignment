@@ -1,0 +1,11 @@
+Cloud Computing Assignment
+
+No of Hosts :X
+No of Switch : Y
+
+Takes X and Y as Command line argument. 
+
+1)   To generates a topology with X switches and Y no of hosts per switch.
+2)  Odd hosts can only talk to each other and even hosts can talk to each other 
+3) All the communication is throttled to 1 mbps for odd hosts and 2 mbps 
+for even hosts
